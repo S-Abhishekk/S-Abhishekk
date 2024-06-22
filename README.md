@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">I'm a third-year student at UPES Dehradun with a knack for solving complex problems and a passion for crafting seamless web experiences.</h3>
 
-
+**Location : Dehradun , India.**
+**College : UPES , Dehradun .**
 
 ### 🌟 **What I Do:**
 - **💻 Data Structures & Algorithms:** Mastering efficient and scalable solutions.
