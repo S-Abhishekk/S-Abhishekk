@@ -9,7 +9,7 @@
 
 ---
 
-### 🌱 **Currently Exploring:**
+### 🌱 **Currently Exploring Now :**
 - Deepening my knowledge in full-stack development.
 - Diving into open-source contributions and community projects.
 
