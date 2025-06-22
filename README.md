@@ -17,7 +17,7 @@
 
 ### 📬 **Let's Connect:**
 - **[Email](mailto:abhishekchaudhary150504@gmail.com)**
-- **[LinkedIn](www.linkedin.com/in/s-abhishekk)**
+- **[LinkedIn](https://www.linkedin.com/in/s-abhishekk/)**
 - **[Twitter](#)**
 
 ---
